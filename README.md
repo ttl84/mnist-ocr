@@ -24,4 +24,4 @@ Example:
 
 This will run the program with a learning rate of 0.1, an inertia weight of 0.2, and two internal layers, where the first layer has 30 nodes and the second has 45 nodes.
 
-The MNIST dataset are found here 
+The MNIST dataset are found [here](http://yann.lecun.com/exdb/mnist/)

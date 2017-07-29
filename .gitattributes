@@ -1,0 +1,7 @@
+* text=auto
+*.nn binary
+*.png binary
+*.jpg binary
+*.idx1-ubyte binary
+*.idx3-ubyte binary
+*.pdf binary
